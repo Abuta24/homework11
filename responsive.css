@@ -128,4 +128,19 @@
         line-height: 28px;
         height: 114px;
     }
+    footer{
+        gap: 829px;
+    }
+    .skill{
+        color: var(--FFFFFF, #FFF);
+        font-family: Plus Jakarta Sans;
+        font-size: 36px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: normal;
+    }
+    .start{
+        width: 167px;
+        height: 56px;
+    }
 }
